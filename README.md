@@ -1,2 +1,1 @@
 # cunbex.github.io
-test
